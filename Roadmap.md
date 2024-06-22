@@ -7,6 +7,7 @@ This app's objectives are to be able to (in this order):
 - Predict future groceries
     - Grocery list generation
     - Pantry inventory tracking
+- Compare prices from nearby stores? (Look for available APIs)
 - Check nutritious value
 
 ------------------------------------------------------------------------------------------------------------------
